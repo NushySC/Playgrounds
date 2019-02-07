@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: 'Coiny', cursive;
+    font-size: 24px;
+  }
+  
+  body {
+    width: 100vw;
+    height: 100vh;
+    background: white url(../images/bg.svg) center/cover no-repeat;
+  }
+  
+  .main {
+    width: 960px;
+    margin: 2rem auto;
+  }
+  
+  .copysilvestre {
+    width: 40%;
+    color: white;
+    margin-top: 100px;
+    float: left;
+    line-height: 1.5em;
+  }
+  
+  .copysilvestre h1 {
+    font-size: 2em;
+  }
+  
+  .silvestre__pic {
+    float: right;
+  }
